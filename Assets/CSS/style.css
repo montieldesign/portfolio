@@ -1180,6 +1180,10 @@ p.last__parag {
     display: none;
   }
 
+  .mySlides {
+    display:none;
+  }
+
   .testCard__container {
     max-width: calc(85%);
   }
@@ -1354,4 +1358,8 @@ p.last__parag {
   }
 }
 
-.mySlides {display:none;}
+.mySlides {
+  display:block;
+}
+
+
